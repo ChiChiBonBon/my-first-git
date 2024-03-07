@@ -1,0 +1,9 @@
+test merging conflict.
+
+Class Order{
+    private String orderName;
+    private String ProductList;
+
+    setter();
+    getter();
+}
