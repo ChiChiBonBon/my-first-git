@@ -4,3 +4,13 @@ Class Production{
     private String productName;
     private Integer price;
 }
+
+Class Order{
+    private String orderName;
+    private String ProductList;
+
+    setter();
+    getter();
+}
+
+If you merge conflict finshed,you have to test unit test.
